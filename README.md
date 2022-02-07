@@ -4,7 +4,7 @@
 ## Hello !
 
 I love to tinker with electronics and computers :smile: \
-This is mostly personal projects and ramblings.
+These are mostly personal projects and ramblings.
 
 ## Find Me
 + Twitter: [KushanthaW][1]
